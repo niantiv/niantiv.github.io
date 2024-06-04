@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niantiv.github.io/sitemap.html
+Sitemap: https://niantiv.github.io/app/sitemap.html
+Sitemap: https://niantiv.github.io/assets/sitemap.html
+Sitemap: https://niantiv.github.io/includes/sitemap.html
+Sitemap: https://niantiv.github.io/src/sitemap.html
